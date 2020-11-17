@@ -1,0 +1,18 @@
+1>Why is a URL encoded in HTML?
+An URL is encoded to convert non-ASCII characters into a format.
+
+2>What is the use of an iframe tag?
+An iframe is used to display a web page within a web page.
+
+3>What is the use of a span tag? Explain with example.
+For adding color on text
+To add background on text
+Highlight any color text
+
+4>Is there any way to keep list elements straight in an HTML file?
+By using Indent
+
+5>The localStorage object stores the data without an expiry date. However, 
+sessionStorage object stores the data for only one session.
+
+6>Frames can make navigating a site much easier.

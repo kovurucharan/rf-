@@ -1,0 +1,63 @@
+Git:git is version control system tool
+**scm/vcs:
+scm-source code management
+vcs-version control system
+   -->to maintain a multiple versions of a file or directory
+EX:index.html----24/2/2017
+    about home contact us     --V1
+
+    index.html----2/3/2017
+    about home contact us login  --V2
+VSC Tools:
+svn/p4/clear/git/bit keeper
+
+free           paid
+svn/git        stash/p4/clear
+
+
+why vcs? track the diff versions of a file
+who use this?all programmers,developers,system admins,deveops enginners....etc
+
+>>Use in which files?
+all text based files
+like .java,.html,.php  ....etc.
+>>it cannot help to track images,videos,and sound files
+
+2000-svn-track multiple users and allow multiple users
+2005-vcs-linus torvalds
+
+         SVN                      GIT
+---server-client based           ---Every project is independent
+--always need continous internet  ---no need of continous internet
+--occupie more disk space and     --occupie less disk space less burdain
+more burdain
+--centalizes vcs                   -->distributed vcs
+--backup need take on server      --->backup can be taken by any client
+
+>>Which platforms support Git?Windows,linux,solaris,mac
+>>Installation of Git?
+>>How to Work Git?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
